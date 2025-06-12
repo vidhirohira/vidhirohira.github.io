@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 2 — Smart Task Allocation with Multi-Armed Bandits"
-date: 2025-06-13 10:00:00 +0800
+date: 2025-06-12 10:00:00 +0530
 categories: [blog]
 tags: [gsoc, sustainhub, opensource, mab, agent-based-modeling, python]
 author: Vidhi Rohira
