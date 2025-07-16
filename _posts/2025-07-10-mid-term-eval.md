@@ -164,9 +164,7 @@ This week marked a major leap for SustainHub, integrating **SARSA** (State-Actio
 
 SARSA is an on-policy RL algorithm where agents update their action-value estimates based on actual experience while following their current policy. Its update rule:
 
-\[
-Q(s, a) \leftarrow Q(s, a) + \alpha \left[ r + \gamma Q(s', a') - Q(s, a) \right]
-\]
+![SARSA Formula](/assets/img/sarsa.png)
 
 - Allows continuous adaptation from environment feedback.
 - Enables personalized learning per agent.
